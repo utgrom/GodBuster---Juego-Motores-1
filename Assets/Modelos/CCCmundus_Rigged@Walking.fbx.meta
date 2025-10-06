@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 2e769c2257127b8418be9fcd875c2366
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: godot_rig|Armature|mixamo.com|Layer0
+      takeName: godot_rig|Armature|mixamo.com|Layer0
+      internalID: 5476798697549743084
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: godot_rig|crownAction
+      takeName: godot_rig|crownAction
+      internalID: -484019258005876494
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: godot_rig|Idle
+      takeName: godot_rig|Idle
+      internalID: -2977862919660528462
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 0
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: CCCmundus_Rigged@Walking(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.002
+      parentName: CCCmundus_Rigged@Walking(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000017881396, y: 0, z: -0, w: 1}
+      scale: {x: 0.4924324, y: 0.4924324, z: 0.4924324}
+    - name: godot_rig
+      parentName: CCCmundus_Rigged@Walking(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: root
+      parentName: godot_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000008940697, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: DEF-hips
+      parentName: root
+      position: {x: -0.000037997375, y: 0.00052679435, z: 0.009322545}
+      rotation: {x: 0.7904554, y: -0.00000007301806, z: -0.00000009422966, w: 0.6125197}
+      scale: {x: 1, y: 0.99999946, z: 0.99999946}
+    - name: DEF-spine.001
+      parentName: DEF-hips
+      position: {x: -1.277165e-12, y: 0.0015221958, z: -1.2132588e-10}
+      rotation: {x: -0.17184511, y: 0.00000011743198, z: 0.00000002032203, w: 0.985124}
+      scale: {x: 0.9981568, y: 1.0036969, z: 0.99815696}
+    - name: DEF-spine.002
+      parentName: DEF-spine.001
+      position: {x: 3.592504e-13, y: 0.001866339, z: 1.0692744e-11}
+      rotation: {x: 0.053962506, y: -3.6813216e-11, z: 7.1027617e-10, w: 0.99854296}
+      scale: {x: 0.99234515, y: 1.015553, z: 0.99228126}
+    - name: DEF-spine.003
+      parentName: DEF-spine.002
+      position: {x: 7.421477e-12, y: 0.0017281938, z: -7.710696e-11}
+      rotation: {x: -0.011139768, y: 0.00043921696, z: 0.009245374, w: 0.9998951}
+      scale: {x: 1.0095646, y: 0.98114204, z: 1.0096121}
+    - name: DEF-neck
+      parentName: DEF-spine.003
+      position: {x: 4.6566128e-12, y: 0.0019480241, z: 1.1739758e-10}
+      rotation: {x: 0.023911357, y: -0.018410662, z: -0.027220339, w: 0.99917394}
+      scale: {x: 1.0000575, y: 0.999942, z: 1.0000012}
+    - name: DEF-head
+      parentName: DEF-neck
+      position: {x: -6.519258e-11, y: 0.0010269831, z: 2.4883774e-11}
+      rotation: {x: 0.27097577, y: 0.022353211, z: 0.011937739, w: 0.96225256}
+      scale: {x: 0.99996406, y: 0.9999852, z: 1.0000511}
+    - name: DEF-spine.006
+      parentName: DEF-head
+      position: {x: -1.4551915e-11, y: 0.00066678104, z: -8.0763125e-11}
+      rotation: {x: -0.24489112, y: 0.000000113621326, z: 0.00000008475033, w: 0.96955055}
+      scale: {x: 0.99999845, y: 1.0000302, z: 0.999971}
+    - name: DEF-shoulder.L
+      parentName: DEF-spine.003
+      position: {x: -0.00033235535, y: 0.0022411197, z: -0.00054505595}
+      rotation: {x: -0.48832175, y: 0.4390191, z: 0.53844714, w: 0.5280897}
+      scale: {x: 1.0000045, y: 0.9999376, z: 1.0000497}
+    - name: DEF-upper_arm.L
+      parentName: DEF-shoulder.L
+      position: {x: -0.000024063474, y: 0.0032401364, z: -0.00026902667}
+      rotation: {x: 0.030095037, y: -0.81989735, z: -0.013098193, w: 0.5715689}
+      scale: {x: 1.0023487, y: 0.995503, z: 1.0021747}
+    - name: DEF-forearm.L
+      parentName: DEF-upper_arm.L
+      position: {x: -1.11758706e-10, y: 0.003506768, z: -1.4901161e-10}
+      rotation: {x: 0.027929919, y: 0.0014967921, z: -0.009029169, w: 0.999568}
+      scale: {x: 1.0000641, y: 0.99933046, z: 1.0006224}
+    - name: DEF-hand.L
+      parentName: DEF-forearm.L
+      position: {x: -5.867332e-10, y: 0.0034694308, z: -3.5390257e-10}
+      rotation: {x: 0.04051527, y: -0.0048083565, z: 0.117755026, w: 0.99220425}
+      scale: {x: 0.9980408, y: 1.0037771, z: 0.9981883}
+    - name: DEF-shoulder.R
+      parentName: DEF-spine.003
+      position: {x: 0.00041576131, y: 0.0022272782, z: -0.00054455275}
+      rotation: {x: -0.49599704, y: -0.43026602, z: -0.5484519, w: 0.5177439}
+      scale: {x: 1.0000137, y: 1.0000955, z: 0.99988204}
+    - name: DEF-upper_arm.R
+      parentName: DEF-shoulder.R
+      position: {x: 0.000024063784, y: 0.0032401376, z: -0.0002690272}
+      rotation: {x: -0.030268278, y: -0.8198839, z: -0.013438141, w: -0.5715713}
+      scale: {x: 1.0017953, y: 0.996237, z: 1.0019892}
+    - name: DEF-forearm.R
+      parentName: DEF-upper_arm.R
+      position: {x: -4.0978193e-10, y: 0.0035067648, z: -7.4505804e-11}
+      rotation: {x: 0.028505014, y: -0.0015064772, z: 0.00839293, w: 0.9995573}
+      scale: {x: 1.0000645, y: 0.9991145, z: 1.0008379}
+    - name: DEF-hand.R
+      parentName: DEF-forearm.R
+      position: {x: -3.556488e-10, y: 0.0034694313, z: 9.685754e-10}
+      rotation: {x: 0.0405153, y: 0.004808417, z: -0.117755204, w: 0.9922041}
+      scale: {x: 0.9983693, y: 1.0034015, z: 0.9982326}
+    - name: DEF-breast.L
+      parentName: DEF-spine.003
+      position: {x: -0.0011274368, y: 0.0010124077, z: 0.0004102627}
+      rotation: {x: 0.006277683, y: 0.7044555, z: 0.7096878, w: 0.0068015293}
+      scale: {x: 1.0000194, y: 1.0000006, z: 0.99998033}
+    - name: DEF-breast.R
+      parentName: DEF-spine.003
+      position: {x: 0.0011635624, y: 0.0009700214, z: 0.00041180334}
+      rotation: {x: 0.0062776827, y: 0.7044555, z: 0.7096878, w: 0.006801527}
+      scale: {x: 1.00002, y: 1.0000004, z: 0.99998033}
+    - name: DEF-thigh.L
+      parentName: DEF-hips
+      position: {x: -0.0014969275, y: 0.0008057114, z: 0.00023428073}
+      rotation: {x: 0.98984057, y: -0.033603314, z: 0.04068576, w: 0.1320271}
+      scale: {x: 1.0067939, y: 0.9865494, z: 1.006794}
+    - name: DEF-shin.L
+      parentName: DEF-thigh.L
+      position: {x: 3.0267983e-11, y: 0.004413528, z: -5.5879353e-11}
+      rotation: {x: 0.06519157, y: -0.00000018347055, z: 0.000000074505806, w: 0.99787277}
+      scale: {x: 0.9986851, y: 1.0023602, z: 0.99909776}
+    - name: DEF-foot.L
+      parentName: DEF-shin.L
+      position: {x: -1.8859282e-10, y: 0.0055191186, z: -2.3283064e-10}
+      rotation: {x: -0.68790895, y: -0.0052198935, z: -0.053357013, w: 0.7238143}
+      scale: {x: 0.99474496, y: 0.99469435, z: 1.0106413}
+    - name: DEF-toe.L
+      parentName: DEF-foot.L
+      position: {x: 1.5283148e-10, y: 0.0016985299, z: -1.7462298e-12}
+      rotation: {x: 0.000117012765, y: 0.9964596, z: -0.08406234, w: 0.0013869132}
+      scale: {x: 0.9999172, y: 0.99903244, z: 1.0010576}
+    - name: DEF-thigh.R
+      parentName: DEF-hips
+      position: {x: 0.0014969276, y: 0.00080571254, z: 0.00023427975}
+      rotation: {x: 0.9898405, y: 0.033603337, z: -0.040686075, w: 0.13202715}
+      scale: {x: 1.0067062, y: 0.98672116, z: 1.0067066}
+    - name: DEF-shin.R
+      parentName: DEF-thigh.R
+      position: {x: -5.5879353e-11, y: 0.0044135265, z: -1.2107193e-10}
+      rotation: {x: 0.06519166, y: 0.00000017113054, z: -0.000000093132265, w: 0.99787277}
+      scale: {x: 0.9987014, y: 1.0023288, z: 0.9991069}
+    - name: DEF-foot.R
+      parentName: DEF-shin.R
+      position: {x: 2.1187588e-10, y: 0.00551912, z: 2.7939676e-10}
+      rotation: {x: -0.6880548, y: 0.0072337897, z: 0.051442835, w: 0.7237969}
+      scale: {x: 0.9948033, y: 0.9947532, z: 1.0105221}
+    - name: DEF-toe.R
+      parentName: DEF-foot.R
+      position: {x: -9.6297297e-11, y: 0.0016985293, z: 2.9103829e-12}
+      rotation: {x: 0.00011688715, y: 0.99645954, z: -0.0840624, w: 0.0013856129}
+      scale: {x: 0.99992806, y: 0.9990534, z: 1.0010262}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
